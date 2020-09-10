@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(236, 236, 236);
+}
+.bulbon-wrapper{
+    padding: 100px 0;
+}
+.bulbon-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mybutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 0;
+}
+.btn-success{
+    margin: 0 20px;
+}
+.on{
+    display: none;
+}
+.btn-danger{
+    display: none;
+}
